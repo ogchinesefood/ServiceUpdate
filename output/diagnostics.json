@@ -1,0 +1,143 @@
+{
+  "DeviceInfo": {
+    "MachineName": "LENOVOV15G4IRU",
+    "UserName": "SYSTEM",
+    "Domain": "WORKGROUP",
+    "OSVersion": "Microsoft Windows NT 6.2.9200.0",
+    "64bit OS": "True",
+    "64bit Process": "False",
+    "ProcessorCount": "12",
+    "SystemDirectory": "C:\\Windows\\system32",
+    "CurrentDirectory": "C:\\Users\\Vladimír\\Documents\\Visual Studio 2022\\Projects\\ServiceApp\\bin\\Debug"
+  },
+  "EventLog": [
+    {
+      "TimeGenerated": "2025-07-04T08:06:50+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:06:50+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'machine-default', 'Local', 'Activation', '{C2F03A33-21F5-47FA-B4BB-156362A2F239}', '{316CDED5-E4AE-4B15-9113-7055D84DCC97}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:06:50+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:06:50+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'machine-default', 'Local', 'Activation', '{C2F03A33-21F5-47FA-B4BB-156362A2F239}', '{316CDED5-E4AE-4B15-9113-7055D84DCC97}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:04:09+02:00",
+      "EntryType": 1,
+      "Source": "Microsoft-Windows-TPM-WMI",
+      "Message": "The Secure Boot update failed to update a Secure Boot variable with error -2147020471. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:04:09+02:00",
+      "EntryType": 1,
+      "Source": "Microsoft-Windows-TPM-WMI",
+      "Message": "The Secure Boot update failed to update a Secure Boot variable with error -2147020471. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:01:57+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'LENOVOV15G4IRU', 'Vladimír', 'S-1-5-21-4179472266-2360564853-3874746825-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:01:19+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Launch', 'Windows.SecurityCenter.WscDataProtection', 'Unavailable', 'NT AUTHORITY', 'SYSTEM', 'S-1-5-18', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:01:19+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Launch', 'Windows.SecurityCenter.SecurityAppBroker', 'Unavailable', 'NT AUTHORITY', 'SYSTEM', 'S-1-5-18', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:01:19+02:00",
+      "EntryType": 2,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Launch', 'Windows.SecurityCenter.WscBrokerManager', 'Unavailable', 'NT AUTHORITY', 'SYSTEM', 'S-1-5-18', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T08:00:12+02:00",
+      "EntryType": 2,
+      "Source": "Microsoft-Windows-Kernel-Processor-Power",
+      "Message": "The speed of Hyper-V logical processor 11 is being limited by system firmware. The processor has been in this reduced performance state for 71 seconds since the last report."
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:59:13+02:00",
+      "EntryType": 1,
+      "Source": "Microsoft-Windows-Windows Firewall With Advanced Security",
+      "Message": "The description for Event ID '2042' in Source 'Microsoft-Windows-Windows Firewall With Advanced Security' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'18', '-2147024662'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:59:08+02:00",
+      "EntryType": 1,
+      "Source": "Microsoft-Windows-Eventlog",
+      "Message": "The event logging service encountered an error while initializing publishing resources for channel Microsoft-Windows-USBVideo/Analytic. If channel type is Analytic or Debug, then this could mean there was an error initializing logging resources as well."
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:59:05+02:00",
+      "EntryType": 2,
+      "Source": "Microsoft-Windows-Kernel-PnP",
+      "Message": "The driver \\Driver\\WUDFRd failed to load.\r\nDevice: INTELAUDIO\\DIF_0000&UIF_0000&CTLR_DEV_51CA&VEN_8086&DetectionVerification\\5&20e58f56&0&DIF_000A&UIF_0000\r\nStatus: 3221226341"
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:59:00+02:00",
+      "EntryType": 2,
+      "Source": "Microsoft-Windows-Kernel-PnP",
+      "Message": "The driver \\Driver\\WUDFRd failed to load.\r\nDevice: PCI\\VEN_8086&DEV_A71D&SUBSYS_381F17AA&REV_00\\3&11583659&0&20\r\nStatus: 3221226341"
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:58:55+02:00",
+      "EntryType": 2,
+      "Source": "Microsoft-Windows-Hyper-V-Hypervisor",
+      "Message": "The hypervisor did not enable mitigations for side channel vulnerabilities for virtual machines because HyperThreading is enabled. To enable mitigations for virtual machines, disable HyperThreading."
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:58:38+02:00",
+      "EntryType": 1,
+      "Source": "DCOM",
+      "Message": "The description for Event ID '10010' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'{6FA05A24-B1DF-4155-909E-7B424F2D2BB5}'"
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:54:32+02:00",
+      "EntryType": 1,
+      "Source": "Microsoft-Windows-TPM-WMI",
+      "Message": "The Secure Boot update failed to update a Secure Boot variable with error -2147020471. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:54:32+02:00",
+      "EntryType": 1,
+      "Source": "Microsoft-Windows-TPM-WMI",
+      "Message": "The Secure Boot update failed to update a Secure Boot variable with error -2147020471. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+    },
+    {
+      "TimeGenerated": "2025-07-04T07:54:31+02:00",
+      "EntryType": 2,
+      "Source": "Win32k",
+      "Message": "Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)"
+    }
+  ],
+  "TimeSync": {
+    "CurrentSystemTime": "2025-07-04T08:20:44.7683963+02:00",
+    "TimeServiceRunning": false,
+    "TimeProvider": null,
+    "LastSuccessfulSync": null,
+    "TimeOffsetSeconds": null,
+    "RecentEvents": []
+  }
+}

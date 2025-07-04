@@ -1,0 +1,517 @@
+2025-05-28 12:29:35,400 INFO  DiagnosticsService.MyService - Služba startuje...
+2025-05-28 12:29:35,438 INFO  DiagnosticsService.MyService - Modul Dummy úspešne dokoncen.
+2025-05-28 12:29:36,109 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 12:32:53,661 INFO  DiagnosticsService.MyService - Služba startuje...
+2025-05-28 12:32:53,725 INFO  DiagnosticsService.MyService - Modul Dummy úspešne dokoncen.
+2025-05-28 12:32:53,750 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 12:32:54,559 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 12:33:03,518 INFO  DiagnosticsService.MyService - Služba se zastavuje...
+2025-05-28 12:36:28,395 INFO  DiagnosticsService.MyService - Služba startuje...
+2025-05-28 12:36:28,439 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 12:36:29,697 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-28 12:36:30,712 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 12:36:37,889 INFO  DiagnosticsService.MyService - Služba se zastavuje...
+2025-05-28 13:04:06,412 INFO  DiagnosticsService.MyService - Služba se spouští...
+2025-05-28 13:04:06,632 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 13:04:08,241 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-28 13:04:11,314 INFO  DiagnosticsService.MyService - Modul TimeSync úspešne dokoncen.
+2025-05-28 13:04:12,657 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 13:05:46,853 INFO  DiagnosticsService.MyService - Služba se spouští...
+2025-05-28 13:05:47,754 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 13:05:49,090 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-28 13:05:50,658 INFO  DiagnosticsService.MyService - Modul TimeSync úspešne dokoncen.
+2025-05-28 13:05:51,237 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 13:06:08,846 INFO  DiagnosticsService.MyService - Služba se zastavuje...
+2025-05-28 13:08:49,674 INFO  DiagnosticsService.MyService - Služba se spouští...
+2025-05-28 13:08:49,773 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 13:08:50,766 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-28 13:08:52,130 INFO  DiagnosticsService.MyService - Modul TimeSync úspešne dokoncen.
+2025-05-28 13:08:52,876 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 13:09:49,074 INFO  DiagnosticsService.MyService - Služba se zastavuje...
+2025-05-28 13:13:30,000 INFO  DiagnosticsService.MyService - Služba se spouští...
+2025-05-28 13:13:30,092 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 13:13:32,601 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-28 13:13:34,219 INFO  DiagnosticsService.MyService - Modul TimeSync úspešne dokoncen.
+2025-05-28 13:13:35,449 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 13:13:52,303 INFO  DiagnosticsService.MyService - Služba se zastavuje...
+2025-05-28 13:46:49,353 INFO  DiagnosticsService.MyService - Služba se spouští...
+2025-05-28 13:46:49,478 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 13:46:57,355 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-28 13:46:59,605 INFO  DiagnosticsService.MyService - Modul TimeSync úspešne dokoncen.
+2025-05-28 13:47:00,703 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 14:48:47,190 INFO  DiagnosticsService.MyService - Služba se spouští...
+2025-05-28 14:48:47,286 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-28 14:48:48,961 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-28 14:48:51,925 INFO  DiagnosticsService.MyService - Modul TimeSync úspešne dokoncen.
+2025-05-28 14:48:53,276 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-28 14:49:32,863 INFO  DiagnosticsService.MyService - Služba se zastavuje...
+2025-05-29 09:33:08,589 INFO  DiagnosticsService.MyService - Služba se spouští...
+2025-05-29 09:33:09,981 INFO  DiagnosticsService.MyService - Modul DeviceInfo úspešne dokoncen.
+2025-05-29 09:33:19,200 INFO  DiagnosticsService.MyService - Modul EventLog úspešne dokoncen.
+2025-05-29 09:33:21,623 INFO  DiagnosticsService.MyService - Modul TimeSync úspešne dokoncen.
+2025-05-29 09:33:23,298 INFO  DiagnosticsService.MyService - Výstupní soubor vytvoren: output\diagnostics.json
+2025-05-29 10:28:13,812 INFO  DiagnosticsService.Program - Spouštím DiagnosticsService...
+2025-05-29 10:28:14,882 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Start služby
+2025-05-29 10:28:14,927 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Spouštím modul: DeviceInfo
+2025-05-29 10:28:14,945 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Modul DeviceInfo úspešne dokoncen.
+2025-05-29 10:28:14,945 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Spouštím modul: EventLog
+2025-05-29 10:28:16,930 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Modul EventLog úspešne dokoncen.
+2025-05-29 10:28:16,930 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Spouštím modul: TimeSync
+2025-05-29 10:28:19,644 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Modul TimeSync úspešne dokoncen.
+2025-05-29 10:28:20,565 INFO  DiagnosticsService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-29 11:09:14,130 INFO  DiagnosticsService.Program - Spouštím MyService...
+2025-05-29 11:09:20,576 INFO  DiagnosticService.Logging.Log4NetLoggingService - Start služby
+2025-05-29 11:09:20,628 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím modul: DeviceInfo
+2025-05-29 11:09:20,669 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo úspešne dokoncen.
+2025-05-29 11:09:20,669 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím modul: EventLog
+2025-05-29 11:09:23,514 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog úspešne dokoncen.
+2025-05-29 11:09:23,514 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím modul: TimeSync
+2025-05-29 11:09:27,199 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync úspešne dokoncen.
+2025-05-29 11:09:29,615 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-29 11:14:21,077 INFO  DiagnosticsService.Program - Spouštím MyService...
+2025-05-29 11:14:21,848 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-05-29 11:14:21,919 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-05-29 11:14:21,964 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován.
+2025-05-29 11:14:21,964 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-05-29 11:14:26,394 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován.
+2025-05-29 11:14:26,394 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-05-29 11:14:29,716 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován.
+2025-05-29 11:14:30,889 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-05-29 11:17:53,870 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-05-29 11:17:55,460 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-05-29 11:17:55,491 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-05-29 11:17:55,545 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-05-29 11:17:55,546 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-05-29 11:17:57,564 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-05-29 11:17:57,565 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-05-29 11:18:01,033 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-05-29 11:18:04,417 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 08:11:17,089 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 08:11:17,154 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 08:11:17,215 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 08:11:17,217 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:11:17,217 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 08:11:17,497 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:11:17,497 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 08:11:17,901 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:11:17,937 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 08:12:11,911 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 08:13:57,692 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 08:13:57,769 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 08:13:57,778 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 08:13:57,780 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:13:57,780 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 08:13:58,161 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:13:58,161 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 08:13:58,517 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:13:58,558 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 08:14:10,189 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 08:14:10,248 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 08:14:10,248 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 08:14:10,258 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:14:10,258 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 08:14:10,606 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:14:10,606 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 08:14:10,957 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:14:10,983 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 08:14:48,590 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 08:14:48,654 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 08:14:48,654 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 08:14:48,654 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:14:48,654 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 08:14:48,812 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:14:48,812 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 08:14:49,002 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 08:14:49,020 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 09:57:11,928 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 09:57:11,989 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 09:57:11,996 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 09:57:11,998 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 09:57:11,998 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 09:57:12,195 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 09:57:12,195 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 09:57:12,522 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 09:57:12,554 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 11:36:46,622 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 11:36:46,683 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 11:36:46,689 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 11:36:46,691 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:36:46,691 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 11:36:46,957 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:36:46,957 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 11:36:47,337 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:36:47,369 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 11:37:37,574 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 11:38:04,399 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 11:38:04,459 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 11:38:04,464 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 11:38:04,466 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:38:04,467 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 11:38:04,667 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:38:04,667 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 11:38:04,873 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:38:04,890 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 11:38:07,031 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 11:48:19,951 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 11:48:20,014 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 11:48:20,024 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 11:48:20,026 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:48:20,027 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 11:48:20,396 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:48:20,396 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 11:48:20,682 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 11:48:20,712 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 12:33:24,874 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 12:33:24,941 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 12:33:24,949 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 12:33:24,951 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:33:24,951 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 12:33:25,353 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:33:25,353 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 12:33:25,646 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:33:25,674 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 12:37:48,987 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 12:37:49,051 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 12:37:49,057 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 12:37:49,059 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:37:49,059 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 12:37:49,484 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:37:49,484 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 12:37:49,861 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:37:49,890 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 12:52:25,723 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 12:53:17,079 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 12:53:23,492 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 12:54:22,681 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 12:54:23,014 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 12:54:23,078 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 12:54:23,082 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 12:54:23,085 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:54:23,085 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 12:54:23,279 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:54:23,279 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 12:54:23,505 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 12:54:23,520 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 13:06:53,919 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 13:08:02,322 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 13:08:02,383 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 13:08:02,385 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 13:08:02,387 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:08:02,387 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 13:08:02,562 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:08:02,562 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 13:08:02,766 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:08:02,780 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 13:08:19,762 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 13:10:25,826 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 13:10:25,887 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 13:10:25,890 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 13:10:25,891 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:10:25,891 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 13:10:26,091 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:10:26,092 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 13:10:26,311 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:10:26,326 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 13:25:46,809 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 13:26:02,736 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 13:26:02,838 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 13:26:02,888 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 13:26:02,890 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:26:02,890 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 13:26:03,064 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:26:03,064 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 13:26:03,257 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:26:03,272 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 13:26:52,943 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 13:26:53,846 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 13:26:53,910 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicialízován
+2025-07-03 13:26:54,002 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 13:26:54,004 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:26:54,004 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 13:26:54,232 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:26:54,232 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 13:26:54,439 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 13:26:54,455 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:03:37,509 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-03 14:20:08,688 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 14:20:08,783 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 60 minut.
+2025-07-03 14:20:08,784 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:20:08,793 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:20:08,796 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:20:08,796 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:20:09,120 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:20:09,120 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:20:09,570 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:20:09,597 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:20:09,597 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:23:53,728 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 14:23:53,791 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 60 minut.
+2025-07-03 14:23:53,791 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:23:53,797 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:23:53,799 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:23:53,799 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:23:54,115 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:23:54,115 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:23:54,475 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:23:54,503 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:23:54,503 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:24:16,718 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 14:24:16,796 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 1 minut.
+2025-07-03 14:24:16,796 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:24:16,810 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:24:16,814 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:24:16,814 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:24:17,311 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:24:17,311 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:24:17,766 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:24:17,827 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:24:17,827 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:25:17,843 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:25:17,844 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:25:17,844 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:25:17,844 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:25:18,032 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:25:18,032 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:25:18,226 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:25:18,226 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:25:18,226 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:26:17,855 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:26:17,855 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:26:17,856 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:26:17,856 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:26:18,057 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:26:18,057 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:26:18,300 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:26:18,300 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:26:18,300 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:27:17,869 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:27:17,869 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:27:17,870 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:27:17,870 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:27:18,097 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:27:18,097 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:27:18,300 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:27:18,302 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:27:18,302 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:28:17,888 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:28:17,888 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:28:17,888 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:28:17,888 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:28:18,106 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:28:18,106 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:28:18,405 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:28:18,406 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:28:18,406 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:29:17,904 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:29:17,904 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:29:17,904 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:29:17,904 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:29:18,090 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:29:18,090 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:29:18,288 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:29:18,288 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:29:18,288 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:45:41,319 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 14:45:41,393 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 1 minut.
+2025-07-03 14:45:42,258 ERROR DiagnosticService.Logging.Log4NetLoggingService - Chyba pri aktualizaci pres Squirrel.
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__39.MoveNext() in C:\Users\ani\code\squirrel\squirrel.windows\src\Squirrel\UpdateManager.Factory.cs:line 68
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at DiagnosticsService.MyService.<CheckForUpdatesAsync>d__8.MoveNext() in C:\Users\Vladimír\Documents\Visual Studio 2022\Projects\ServiceApp\Properties\Services\MyService.cs:line 79
+2025-07-03 14:45:42,279 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:45:42,286 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:45:42,286 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:45:42,286 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:45:42,665 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:45:42,665 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:45:42,980 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:45:43,005 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:45:43,006 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:46:43,019 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:46:43,020 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:46:43,020 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:46:43,020 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:46:43,290 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:46:43,291 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:46:43,511 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:46:43,511 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:46:43,511 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:47:43,030 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:47:43,030 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:47:43,031 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:47:43,031 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:47:43,233 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:47:43,233 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:47:43,436 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:47:43,437 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:47:43,437 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:48:43,041 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:48:43,041 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:48:43,042 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:48:43,042 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:48:43,315 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:48:43,315 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:48:43,569 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:48:43,570 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:48:43,570 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:49:43,051 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:49:43,051 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:49:43,051 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:49:43,051 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:49:43,284 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:49:43,284 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:49:43,638 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:49:43,638 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:49:43,639 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:50:43,069 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:50:43,069 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:50:43,069 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:50:43,069 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:50:43,394 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:50:43,394 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:50:43,781 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:50:43,782 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:50:43,782 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:51:43,081 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:51:43,081 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:51:43,082 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:51:43,082 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:51:43,272 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:51:43,272 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:51:43,605 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:51:43,605 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:51:43,605 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-03 14:52:26,279 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-03 14:52:26,345 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 60 minut.
+2025-07-03 14:52:26,837 ERROR DiagnosticService.Logging.Log4NetLoggingService - Chyba pri aktualizaci pres Squirrel.
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__39.MoveNext() in C:\Users\ani\code\squirrel\squirrel.windows\src\Squirrel\UpdateManager.Factory.cs:line 68
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at DiagnosticsService.MyService.<CheckForUpdatesAsync>d__8.MoveNext() in C:\Users\Vladimír\Documents\Visual Studio 2022\Projects\ServiceApp\Properties\Services\MyService.cs:line 79
+2025-07-03 14:52:26,850 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-03 14:52:26,857 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-03 14:52:26,858 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:52:26,858 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-03 14:52:27,081 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:52:27,081 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-03 14:52:27,447 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-03 14:52:27,476 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-03 14:52:27,476 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-04 08:12:49,710 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:12:49,810 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 60 minut.
+2025-07-04 08:12:50,491 ERROR DiagnosticService.Logging.Log4NetLoggingService - Chyba pri kontrole aktualizací pres Squirrel.
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__39.MoveNext() in C:\Users\ani\code\squirrel\squirrel.windows\src\Squirrel\UpdateManager.Factory.cs:line 68
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at DiagnosticsService.MyService.<CheckForUpdatesAsync>d__8.MoveNext() in C:\Users\Vladimír\Documents\Visual Studio 2022\Projects\ServiceApp\Properties\Services\MyService.cs:line 81
+2025-07-04 08:12:50,526 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-04 08:12:50,540 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-04 08:12:50,541 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:12:50,541 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-04 08:12:50,938 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:12:50,939 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-04 08:12:51,321 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:12:51,373 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-04 08:12:51,373 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-04 08:15:13,738 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:15:13,801 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 60 minut.
+2025-07-04 08:15:14,304 ERROR DiagnosticService.Logging.Log4NetLoggingService - Chyba pri kontrole aktualizací pres Squirrel.
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__39.MoveNext() in C:\Users\ani\code\squirrel\squirrel.windows\src\Squirrel\UpdateManager.Factory.cs:line 68
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at DiagnosticsService.MyService.<CheckForUpdatesAsync>d__8.MoveNext() in C:\Users\Vladimír\Documents\Visual Studio 2022\Projects\ServiceApp\Properties\Services\MyService.cs:line 81
+2025-07-04 08:15:14,312 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-04 08:15:14,314 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-04 08:15:14,314 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:15:14,314 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-04 08:15:14,724 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:15:14,724 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-04 08:15:15,184 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:15:15,201 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-04 08:15:15,201 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-04 08:15:18,379 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:15:18,442 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 60 minut.
+2025-07-04 08:15:18,809 ERROR DiagnosticService.Logging.Log4NetLoggingService - Chyba pri kontrole aktualizací pres Squirrel.
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__39.MoveNext() in C:\Users\ani\code\squirrel\squirrel.windows\src\Squirrel\UpdateManager.Factory.cs:line 68
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at DiagnosticsService.MyService.<CheckForUpdatesAsync>d__8.MoveNext() in C:\Users\Vladimír\Documents\Visual Studio 2022\Projects\ServiceApp\Properties\Services\MyService.cs:line 81
+2025-07-04 08:15:18,817 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-04 08:15:18,820 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-04 08:15:18,820 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:15:18,820 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-04 08:15:19,268 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:15:19,268 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-04 08:15:19,686 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:15:19,700 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-04 08:15:19,700 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-04 08:16:30,411 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:17:28,303 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:17:33,798 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:17:43,877 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:17:48,981 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:17:55,697 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:18:04,447 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:18:18,491 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:18:19,373 ERROR DiagnosticService.Logging.Log4NetLoggingService - Chyba pri kontrole aktualizací pres Squirrel.
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__39.MoveNext() in C:\Users\ani\code\squirrel\squirrel.windows\src\Squirrel\UpdateManager.Factory.cs:line 68
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at DiagnosticsService.MyService.<CheckForUpdatesAsync>d__8.MoveNext() in C:\Users\Vladimír\Documents\Visual Studio 2022\Projects\ServiceApp\Properties\Services\MyService.cs:line 81
+2025-07-04 08:18:19,417 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-04 08:18:19,430 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-04 08:18:19,431 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:18:19,431 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-04 08:18:19,756 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:18:19,756 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-04 08:18:20,048 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:18:20,064 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-04 08:18:20,064 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-04 08:20:41,637 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-04 08:20:43,711 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:20:43,774 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne inicializován. Interval behu modulu: 60 minut.
+2025-07-04 08:20:44,065 ERROR DiagnosticService.Logging.Log4NetLoggingService - Chyba pri kontrole aktualizací pres Squirrel.
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at Squirrel.UpdateManager.<GitHubUpdateManager>d__39.MoveNext() in C:\Users\ani\code\squirrel\squirrel.windows\src\Squirrel\UpdateManager.Factory.cs:line 68
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at DiagnosticsService.MyService.<CheckForUpdatesAsync>d__8.MoveNext() in C:\Users\Vladimír\Documents\Visual Studio 2022\Projects\ServiceApp\Properties\Services\MyService.cs:line 81
+2025-07-04 08:20:44,075 INFO  DiagnosticService.Logging.Log4NetLoggingService - Spouštím diagnostické moduly...
+2025-07-04 08:20:44,078 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: DeviceInfo
+2025-07-04 08:20:44,079 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul DeviceInfo byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:20:44,079 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: EventLog
+2025-07-04 08:20:44,768 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul EventLog byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:20:44,768 INFO  DiagnosticService.Logging.Log4NetLoggingService - Inicializuji modul: TimeSync
+2025-07-04 08:20:45,696 INFO  DiagnosticService.Logging.Log4NetLoggingService - Modul TimeSync byl úspešne inicializován, probehl, a byl ukoncen..
+2025-07-04 08:20:45,711 INFO  DiagnosticService.Logging.Log4NetLoggingService - Výstupní soubor vytvoren: output/diagnostics.json
+2025-07-04 08:20:45,711 INFO  DiagnosticService.Logging.Log4NetLoggingService - Diagnostické moduly dokoncily beh.
+2025-07-04 08:21:12,149 INFO  DiagnosticService.Logging.Log4NetLoggingService - MyService byl úspešne ukoncen.
+2025-07-04 08:25:43,742 INFO  DiagnosticsService.Program - Inicializuji MyService...
+2025-07-04 08:25:47,283 INFO  DiagnosticsService.Program - Inicializuji MyService...
